@@ -32,7 +32,7 @@ No desenvolvimento, gosto de focar em código limpo usando o VS Code e tenho uma
 ### 📫 Como me encontrar:
 - **Portfólio:** [Acesse meu site](https://vieirabotelhojoaovictor-tech.github.io/portfolio/#contato)
 - **WhatsApp:** [(69) 99229-9223](https://wa.me/5569992299223)
-- **E-mail:** *(Coloque seu e-mail aqui)*
+- **E-mail:** *(vieirabotelhojoaovictor@gmail.com)*
 
 ---
 ⭐️ *Deixe uma estrela nos meus repositórios se os projetos foram úteis para você!*
