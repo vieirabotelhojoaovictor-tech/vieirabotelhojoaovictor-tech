@@ -1,6 +1,6 @@
 # Olá! Sou João Victor Vieira Botelho 👋
 
-https://raw.githubusercontent.com/vieirabotelhojoaovictor-tech/vieirabotelhojoaovictor-tech/refs/heads/main/assets/robozinho-animado.svg
+<img src="https://raw.githubusercontent.com/vieirabotelhojoaovictor-tech/vieirabotelhojoaovictor-tech/refs/heads/main/assets/robozinho-animado.svg" width="180" align="right" alt="Robozinho mascote" />
 
 Sou um Desenvolvedor Web e Estrategista Digital de Porto Velho, RO. Minha trajetória é uma mistura única: trago a resiliência, a disciplina e o foco em segurança da informação do meu tempo no 17º Pelotão de Comunicações do Exército Brasileiro (onde atuei com criptografia de ponta a ponta e manutenção de redes de rádio) e combino isso com minha paixão por tecnologia e marketing digital.
 
